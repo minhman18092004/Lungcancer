@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lung Cancer CT Classification
 
 Dự án phân loại ảnh CT phổi thành 3 lớp:
@@ -135,3 +136,6 @@ Bạn có thể:
 - Tách notebook thành script/module để dễ tái sử dụng
 - Thêm `requirements.txt` và `train.py`/`inference.py`
 - Bổ sung quy trình đánh giá nhất quán giữa các kiến trúc
+=======
+# Lungcancer
+>>>>>>> 5f8b1efe1a276db03c8f9df2c98f3697ce666255
